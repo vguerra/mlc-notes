@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Machine Learning Compilation notes"
+  site-url: "https://vguerra.github.io/mlc-notes"
+  description: "Machine Learning Compilation notes"
+  repo-branch: main
+  repo-url: "https://github.com/vguerra/mlc-notes"
